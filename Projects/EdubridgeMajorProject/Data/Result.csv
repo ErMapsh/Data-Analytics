@@ -1,7 +1,7 @@
 ,algorithm,accuracy
 0,LogisticRegression,0.8132530120481928
-1,DecisionTreeClassifier,0.7590361445783133
+1,DecisionTreeClassifier,0.7530120481927711
 2,KNeighborsClassifier,0.6506024096385542
 3,GaussianNB,0.8012048192771084
 4,SVC,0.6385542168674698
-5,RandomForestClassifier,0.8132530120481928
+5,RandomForestClassifier,0.8192771084337349
