@@ -1,8 +1,8 @@
 ,algorithm,accuracy
-0,LogisticRegression,81.32530120481928
-1,DecisionTreeClassifier,72.89156626506023
-2,KNeighborsClassifier,65.06024096385542
-3,GaussianNB,80.12048192771084
-4,SVC,63.85542168674698
-5,RandomForestClassifier,81.32530120481928
-6,GradientBoostingClassifier,78.91566265060241
+0,LogisticRegression,73.24561403508771
+1,DecisionTreeClassifier,75.0
+2,KNeighborsClassifier,60.08771929824561
+3,GaussianNB,71.49122807017544
+4,SVC,49.56140350877193
+5,RandomForestClassifier,82.89473684210526
+6,GradientBoostingClassifier,79.82456140350878
