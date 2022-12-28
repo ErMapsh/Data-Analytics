@@ -29,9 +29,9 @@ def predictData():
     pred = model.predict(arr)
     print(pred)
     if pred == 1:
-        return render_template("Predict.html", Predict = "Yes");
+        return render_template("Predict.html", Predict = "Yes, you are approved for a loan");
     else:
-        return render_template("Predict.html", Predict = "No");
+        return render_template("Predict.html", Predict = "No, you are not approved for a loan");
 
 
 if __name__ == "__main__":
